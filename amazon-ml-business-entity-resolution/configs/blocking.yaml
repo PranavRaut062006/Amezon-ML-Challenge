@@ -1,0 +1,8 @@
+blocking:
+  max_candidates_per_source1: 500
+  exact_normalized_name: true
+  compact_name: true
+  name_tokens: true
+  address_tokens: true
+  country_aware_exact_name: true
+  name_prefix: true

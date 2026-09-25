@@ -1,0 +1,5 @@
+features:
+  version: v1
+  name_similarity: sequence_matcher
+  address_similarity: sequence_matcher
+  token_overlap: jaccard

@@ -1,0 +1,4 @@
+data_dir: data
+train_dir: data/train
+test_dir: data/test
+required_columns: [entity_id, business_name, business_address, country]
