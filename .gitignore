@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large Datasets & TSVs
+*.tsv
+data/
+6ab10eb3b23ba_student_resource/
+
+# Models & Outputs
+*.joblib
+output/*.tsv
+models/*.joblib
+
+# OS generated files
+.DS_Store
+Thumbs.db
